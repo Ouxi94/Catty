@@ -25,7 +25,7 @@ import Foundation
 
 class AppDelegate : UIResponder
 {
-    
+    var window : UIWindow;
 }
 
 
